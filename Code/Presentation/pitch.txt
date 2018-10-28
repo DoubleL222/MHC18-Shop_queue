@@ -1,0 +1,49 @@
+# Adaptive retail:
+
+## Case story
+
+Traditional shops are facing increasing competition from online retail [1]. There are, hovewer multiple opportunities to improve the in-shop experience with:
+- tailoring the customer journey to the needs of a specific person
+- using the resources more effectively to reduce frustrations and save costs
+
+we have identified two areas which could potentially be improved in typical middle-size discount supermarkets (like Netto), especially in Denmark, leveraging existing infrastructure.
+- Queue lines are long due to a high cost of staff, which needs to multitask. Queue optimization an waiting time decrease can improve customer retention: according to study performed by 77% of shoppers are less likely to return to a store where they experienced long checkout lines and 19% of shoppers walk away, if the waiting line has more than 5 people in it.
+
+- Customers are often overloaded with choice and miss either personal assistence present in the smaller shops or online recommendations given by AI-assistans present in Amazon etc.
+
+
+We plan to improve: value proposition (performance) and aim for better customer relationship.
+
+Possibility of dynamic pricing based on customer activity	
+
+
+
+
+
+
+
+
+
+
+165
+
+
+
+1: https://www.redirectconsulting.com/blog/how-online-shopping-impacts-retail-centers-the-next-big-thing-for-malls
+2: https://v-count.com/queue-optimization-in-supermarkets/ ; Professor Ziv Carmon of INSEAD Business School
+
+Hi folks! Tomorrow you have 4 minutes for your pitch + 2 minutes for questions...
+
+A suggestion for your agenda:
+
+Problem (what is the problem we are solving)
+Solution/demo (show and tell about your solution
+Context (business potential/market/opportunities)
+Team and conclusion
+
+The main focus should be on your solution - BUT, you are welcome to do it exactly however you want to.
+
+The criteria
+Your idea/solution/originality
+Execution/demo/technology 
+Pitch
