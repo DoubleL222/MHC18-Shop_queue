@@ -1,5 +1,5 @@
 # MHC18-Shop_queue
-*Hackhathon - Creating a new Inteligence World*
+*Creating an Intelligent World Hackathon*
 
 This project was developed as a demo for a business idea. It was created during the hackathon Creating an Intelligent World Hackathon organised by Mileston. 
 
